@@ -1,0 +1,15 @@
+.Icon_Sizes{
+    
+    padding:5px 5px 5px 5px;
+    border-radius:10px;
+}
+p{
+    font-size:bold;
+    color:aliceblue;
+    background-color:black;
+}
+.Icon{
+    
+    display:flex;
+    justify-content:space-around;
+}
